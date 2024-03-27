@@ -1,8 +1,9 @@
  <div align="center">
         <h1 align="center">Hi, I´m Diego 👋</h1>
- </div>
- <img src="https://github.com/Diegh0/Diegh0/blob/main/bannerPrincipal.jpeg?raw=true" height="300px">
+        <img src="https://github.com/Diegh0/Diegh0/blob/main/bannerPrincipal.jpeg?raw=true" height="300px">
  
+ </div>
+
 ## :rocket: About me
 <br> :round_pushpin: I´m from Valencia, Spain <br>
 👨🏽‍💻  I´m `Frontend developer`, I enjoy creating `interactive` and `dynamic` web applications.<br>
@@ -31,7 +32,7 @@
 <td width="50%">
 <h3 align="center">Mental Health App</h3>
 <div align="center">
-<a href="https://github.com/Diegh0/Psico-App" target="_blank"><img src="https://github.com/Diegh0/Diegh0/blob/main/img/psico-app.jpeg?raw=true"  width="500"></a>
+<a href="https://github.com/Diegh0/Psico-App" target="_blank"><img src="https://github.com/Diegh0/Diegh0/blob/main/img/habilidadesImg.jpeg?raw=true"  width="500"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
