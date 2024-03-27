@@ -29,18 +29,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Mental Health App</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/Diegh0/Diegh0/blob/main/img/psico-app.jpeg?raw=true"></a>
+<a href="https://github.com/Diegh0/Psico-App" target="_blank"><img src="https://github.com/Diegh0/Diegh0/blob/main/img/psico-app.jpeg?raw=true"  width="400"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Good mental health is crucial, as it forms the basis for understanding our emotions and evolving in the fundamental skills necessary for healthy mental development, such as self-esteem, social relationships, and trusting ourselves and our decisions. This psychological self-care app will help you better understand yourself and achieve the much-needed peace and mental well-being..</p>
 </div>
                                                                                       
 </td>
