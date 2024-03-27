@@ -32,7 +32,7 @@
 <td width="50%">
 <h3 align="center">Mental Health App</h3>
 <div align="center">
-<a href="https://github.com/Diegh0/Psico-App" target="_blank"><img src="https://github.com/Diegh0/Diegh0/blob/main/img/habilidadesImg.jpeg?raw=true"  width="500"></a>
+<a href="https://github.com/Diegh0/Psico-App" target="_blank"><img src="https://github.com/Diegh0/Diegh0/blob/main/img/habilidadesImg.jpeg?raw=true"  width="600"></a>
 <p>
 <a href="https://github.com/Diegh0/Psico-App" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
