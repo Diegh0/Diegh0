@@ -1,7 +1,7 @@
  <div align="center">
         <h1 align="center">Hi, I´m Diego 👋</h1>
  </div>
- <img src="[https://github.com/Diegh0/Diegh0/blob/main/banner.jpeg?raw=true](https://github.com/Diegh0/Diegh0/blob/main/bannerNew.jpeg)">
+ <img src="https://github.com/Diegh0/Diegh0/blob/main/bannerNew.jpeg?raw=true">
 
 <!--
 **Diegh0/Diegh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
