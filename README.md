@@ -34,7 +34,7 @@
 <div align="center">
 <a href="https://github.com/Diegh0/Psico-App" target="_blank"><img src="https://github.com/Diegh0/Diegh0/blob/main/img/habilidadesImg.jpeg?raw=true"  width="500"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/Diegh0/Psico-App" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
