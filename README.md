@@ -31,13 +31,13 @@
 <td width="50%">
 <h3 align="center">Mental Health App</h3>
 <div align="center">
-<a href="https://github.com/Diegh0/Psico-App" target="_blank"><img src="https://github.com/Diegh0/Diegh0/blob/main/img/psico-app.jpeg?raw=true"  width="400"></a>
+<a href="https://github.com/Diegh0/Psico-App" target="_blank"><img src="https://github.com/Diegh0/Diegh0/blob/main/img/psico-app.jpeg?raw=true"  width="500"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Good mental health is crucial, as it forms the basis for understanding our emotions and evolving in the fundamental skills necessary for healthy mental development, such as self-esteem, social relationships, and trusting ourselves and our decisions. This psychological self-care app will help you better understand yourself and achieve the much-needed peace and mental well-being..</p>
+<pHaving good mental health is really important. It's all about understanding our feelings and learning the basic skills we need for a healthy mind, like self-esteem, socializing, and trusting ourselves. This app is all about taking care of your mental health. It helps you understand yourself better and find that inner peace we all need.</p>
 </div>
                                                                                       
 </td>
