@@ -1,7 +1,7 @@
  <div align="center">
         <h1 align="center">Hi, I´m Diego 👋</h1>
  </div>
- <img src="https://github.com/Diegh0/Diegh0/blob/main/bannerPrincipal.jpeg?raw=true" height="400px">
+ <img src="https://github.com/Diegh0/Diegh0/blob/main/bannerPrincipal.jpeg?raw=true" height="300px">
  
 ## :rocket: About me
 <br> :round_pushpin: I´m from Valencia, Spain <br>
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<pHaving good mental health is really important. It's all about understanding our feelings and learning the basic skills we need for a healthy mind, like self-esteem, socializing, and trusting ourselves. This app is all about taking care of your mental health. It helps you understand yourself better and find that inner peace we all need.</p>
+<p>Having good mental health is really important. It's all about understanding our feelings and learning the basic skills we need for a healthy mind, like self-esteem, socializing, and trusting ourselves. This app is all about taking care of your mental health. It helps you understand yourself better and find that inner peace we all need.</p>
 </div>
                                                                                       
 </td>
