@@ -12,8 +12,8 @@
 📚  Specializing in `Angular`.<br>
 
 ## 👨🏽‍💻 My Apps
-<h2>PSICO APP</h2>
-<a href="https://mental-ht.web.app/" target="_blank">PSICO APP</a>
+<h2><a href="https://mental-ht.web.app/" target="_blank">PSICO APP</a></h2>
+
 
 ## 🛠️ My skills
 
