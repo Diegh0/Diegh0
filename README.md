@@ -11,7 +11,7 @@
 🏋️‍♂️  I'm also a `fitness` coach and I enjoy an active `lifestyle`.<br>
 📚  Specializing in `Angular`.<br>
 
-## 👨🏽‍💻 My Apps
+## 👨🏽‍💻 My Apps Deployed
 <h2><a href="https://mental-ht.web.app/" target="_blank">PSICO APP</a></h2>
 
 
